@@ -1,0 +1,128 @@
+@media (min-width:320px) and (max-width:575px){
+    .main {
+        width: auto;
+      
+    }
+    .facebook {
+        background:white !important;
+    }
+    .home {
+        font-size: 31px;
+      
+        padding-left: 15px;
+    }
+    .img2 {
+       
+        top: 28px;
+        right: -9px;
+    }
+    .inputHead {
+        width: 232px;
+        padding-top: 52px;
+        padding-left: 12px;
+    }
+    .img1 {
+        width: 26%;
+        top: 167px;
+        left: -7px;
+    }
+    .caption2::placeholder{
+        font-size: 30px;
+    }
+    .name {
+        padding-left: 18px;
+        padding-top: 2px;
+        padding-bottom: 3px;
+        font-size: 16px;
+    }
+    .caption {
+        padding-left: 70px;
+    }
+    .caption2::placeholder{
+        font-size: 22px;
+    }
+    .buttonHead {
+        padding-left: 0px;
+    }
+    .ulIcon li {
+        margin-left: 16px;
+    }
+    .ulIcon li i {
+        font-size: 17px;
+    }
+    .lastLi {
+        margin-left: 58px !important;
+    }
+    .button {
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .span1 {
+        font-size: 14px;
+        top: 56px;
+        right: 12px;
+    }
+    .caption2 {
+        width: 225px;
+        font-size: 22px;
+    }
+    .ulIcon li {
+        padding-top: 30px;
+    }
+    .lastLi {
+        padding-top: 25px !important;
+    }
+    .img3 {
+        top: 56px;
+        left: -6px;
+        width: 22%;
+    }
+    .postHeading {
+        padding-left: 20px;
+        font-size: 15px;
+        padding-top: 35px;
+        font-weight: 600;
+    }
+    .postHeading span i {
+        font-size: 13px;
+    }
+    .dateFixed {
+        font-size: 13px;
+        margin-left: 9px;
+    }
+    .print3 {
+        padding-top: 27px;
+        padding-left: 0px;
+        font-size: 22px;
+    }
+    .threeDot {
+        top: 66px;
+        right: 9px;
+        font-size: 14px;
+    }
+    .edit {
+        top: 67px;
+        right: 16px;
+        font-size: 13px;
+    }
+    .printul li {
+        margin-right: -26px;
+        margin-left: -39px;
+        margin-top: 40px;
+    }
+    .printul li i {
+        font-size: 18px;
+    }
+    .deleteBtn {
+        font-size: 14px;
+    }
+    .deleteBtn {
+        margin-top: -4px;
+    }
+    .main {
+        padding-bottom: 120px;
+    }
+    .print3 {
+        width: 256px;
+    }
+}

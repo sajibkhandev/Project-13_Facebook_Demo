@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.facebook{
+    background: rgb(242, 242, 249);
+   
+    padding-bottom: 10px;
+}
+.main{
+   
+    width: 900px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px white;
+    background: white;
+    position: relative;
+    padding-bottom: 280px;
+    
+    
+}
+
+.home {
+	font-size: 40px;
+	font-weight: 700;
+	padding-top: 29px;
+	padding-left: 45px;
+}
+.inputHead {
+	width: 371px;
+	padding-top: 68px;
+	padding-left: 119px;
+}
+.name{
+    border-radius: 40px !important;
+    padding-left: 22px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+ 
+}
+.inputSpan{
+    position: relative;
+}
+.span1 {
+	position: absolute;
+	top: 73px;
+	right: 14px;
+	color: rgb(236, 72, 72);
+}
+.iColor{
+    color: rgb(12, 191, 90);
+}
+.caption {
+	padding-top: 25px;
+	padding-left: 125px;
+	padding-right: 60px;
+}
+.caption2{
+    border: 0px;
+    width: 700px;
+    font-size: 35px;
+    outline: 0px;
+    /* box-shadow: none !important; */
+    
+}
+.img1 {
+	position: absolute;
+	top: 200px;
+	left: 25px;
+}
+.img2 {
+	position: absolute;
+	top: 40px;
+	right: 65px;
+}
+.caption2::placeholder{
+    font-size: 35px;
+}
+.buttonHead{
+    display: flex;
+    padding-left: 50px;
+}
+.ulIcon{
+    display: flex;
+    list-style: none;
+    
+
+}
+.ulIcon li{
+    margin-left: 50px;
+    padding-top: 5px;
+    
+}
+.lastLi{
+    margin-left: 372px !important;
+    padding-top: 0px !important;
+    
+}
+.ulIcon li i{
+    font-size: 25px;
+    /* color:#4CB5F6; */
+    color: rgb(64, 45, 45);
+}
+.button{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+/*  this is post */
+
+.pain{
+    position: relative;
+   /* background: red; */
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.postHeading {
+	padding-left: 75px;
+	font-size: 18px;
+	padding-top: 46px;
+	font-weight: 600;
+    /* position: relative; */
+}
+/* .postHeading::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: #4CB5F6;
+} */
+.postHeading span i{
+    color: #4CB5F6;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.dateFixed {
+	font-size: 16px;
+	margin-left: 12px;
+	color: #6c757d;
+}
+.threeDot {
+	position: absolute;
+	top: 78px;
+	right: 85px;
+	color: #6c757d;
+	font-size: 16px;
+}
+.edit {
+	position: absolute;
+	top: 78px;
+	right: 100px;
+	font-size: 17px;
+	font-weight: 500;
+}
+
+.img3 {
+	position: absolute;
+	top: 61px;
+	left: 22px;
+}
+.print3 {
+    width: 800px;
+	padding-top: 33px;
+	padding-left: 73px;
+	font-size: 30px;
+}
+.printul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.printul li {
+	
+	margin-right: 54px;
+	margin-left: 44px;
+	margin-top: 40px;
+}
+.printul li i{
+	font-size: 25px;
+}
+
+
+.deleteBtn{
+    font-size: 16px;
+    font-weight: 600;
+}
+.love1{
+    color: red !important;
+    
+}
+
